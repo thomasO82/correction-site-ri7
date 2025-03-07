@@ -1,0 +1,14 @@
+#gameContainer {
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+}
+
+.row {
+    display: flex;
+    flex: 1;
+}
+
+.cell {
+    flex: 1;
+}
